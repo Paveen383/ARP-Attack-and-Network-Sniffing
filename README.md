@@ -31,7 +31,7 @@ From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2d870a17-4559-4e30-a8d8-e1a7632a97b4" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3c6eff32-3525-4eaf-9e49-90d1097f03a5" />
 
 
 
